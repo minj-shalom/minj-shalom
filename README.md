@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/63629356/137391234-c14ca9dd-3d04-4b17-b16f-b766da7ba572.png" width="500"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/63629356/137391234-c14ca9dd-3d04-4b17-b16f-b766da7ba572.png" width="100"> </p>
 
 <h3 align="center"> 🎬 디렉터리 🧑‍💻 </h3>
 <p align="center">
