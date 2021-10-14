@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/minj_shalom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minj_shalom/"/></a>&nbsp
   <a href="https://www.youtube.com/channel/UCmOklxMC6zIrrP9ZcnldthQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCmOklxMC6zIrrP9ZcnldthQ"/></a>&nbsp
   <a href="https://github.com/minj-shalom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/minj-shalom"/></a>&nbsp
-  <a href="matilto:minj9711@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=matilto:minj9711@gmail.com"/></a>&nbsp
+  <a href="mailto:minj9711@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=minj9711@gmail.com"/></a>&nbsp
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminj-shalom&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23181717&title=HITS&edge_flat=true"/></a>
 </p>
 
